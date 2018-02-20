@@ -32,7 +32,7 @@ This book is for .NET Core developers who want to learn and understand the micro
 
 # Get to Know the Author 
 *Gaurav Aroraa*
-![alt text]
+![alt text](https://drive.google.com/open?id=1fOdK-8eGkf8c2KhQvAiJupyXX_zn8pLQ)
 *Gaurav Aroraa is a Microsoft Most Valuable Professional [MVP] and has a degree of MPhil in computer science. His 19 years of experience in software development and application support using Microsoft Technologies spans across domains, such as aeronautics, finance, insurance, healthcare, construction, and media. He is a Scrum Certified Trainer/Coach, Microsoft Certified Technology Specialist, XEN certified for ITIL-F, and APMG certified for PRINCE-F and PRINCE-P. Gaurav likes to learn new processes and technologies and sharing his experiences with people.
 He is a founder of InnatusCuro Software LLC, and his present responsibilities include application architecture, defining strategy for continuous integration, and deployment. Gaurav also plays a vital community role through the IndiaMentor platform. He also manages DotNetSpider as a Webmaster.
 Author Website - http://gaurav-arora.com/
