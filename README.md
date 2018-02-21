@@ -35,9 +35,9 @@ This book is for .NET Core developers who want to learn and understand the micro
 
 # Where can you buy this book?
 
-**Amazon**: [https://www.amazon.com/Building-Microservices-NET-Core-2-0/dp/1788393333](https://www.amazon.com/Building-Microservices-NET-Core-2-0/dp/1788393333) 
+**Amazon**: [Building Microservices with .NET Core 2.0](https://www.amazon.com/Building-Microservices-NET-Core-2-0/dp/1788393333) 
 
-**Packt**: [https://www.packtpub.com/application-development/building-microservices-net-core-20-second-edition?utm_source=github&utm_medium=authorengagement&utm_campaign=9781788393331](https://www.packtpub.com/application-development/building-microservices-net-core-20-second-edition?utm_source=github&utm_medium=authorengagement&utm_campaign=9781788393331)
+**Packt**: [Building Microservices with .NET Core 2.0](https://www.packtpub.com/application-development/building-microservices-net-core-20-second-edition?utm_source=github&utm_medium=authorengagement&utm_campaign=9781788393331)
 
 # Get to Know the Author 
 *Gaurav Aroraa*
